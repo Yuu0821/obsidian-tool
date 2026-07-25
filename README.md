@@ -18,6 +18,7 @@ think/
 ├─ 開発/
 │   ├─ AI・LLM/
 │   ├─ AIエージェント開発/
+│   ├─ Obsidian自動化/          # このobsidian-toolプロジェクト自体の検討・運用メモ
 │   ├─ Python/
 │   ├─ 競技プログラミング/       # AtCoder
 │   ├─ ゲーム開発/

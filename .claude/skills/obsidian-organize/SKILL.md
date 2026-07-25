@@ -9,7 +9,8 @@ description: Obsidian Vault (C:\Users\yuuki\OneDrive\ドキュメント\think) �
 - パス: `C:\Users\yuuki\OneDrive\ドキュメント\think`
 - OneDrive同期のみで、Gitなどのバージョン管理はされていない（ユーザーの意向でGit導入はしない）
 - トップレベルフォルダ構成（2026-07-25に再編済み）:
-	- `開発/`（AI・LLM, AIエージェント開発, Python, 競技プログラミング, ゲーム開発, 開発Tips・環境, ハードウェア, 統計学）
+	- `開発/`（AI・LLM, AIエージェント開発, Obsidian自動化, Python, 競技プログラミング, ゲーム開発, 開発Tips・環境, ハードウェア, 統計学）
+		- `Obsidian自動化/`は、このobsidian-organizeスキル自体（Claude Codeでのメモ整理運用）についての検討・調査・アイデアを置く場所。運用は継続的にアップデートしていく想定なので、関連する気づきはここに集約する
 	- `仕事/`（案件/, 働き方・考え方/）
 	- `キャリア/`
 	- `お金・資産/`
